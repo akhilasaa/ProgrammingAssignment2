@@ -1,6 +1,9 @@
-## Matrix inversion is usually a costly computation and there may be some benefit to caching the inverse of a matrix rather than compute it repeatedly
+## Matrix inversion is usually a costly computation and there may be some benefit
+## to caching the inverse of a matrix rather than compute it repeatedly'
+## 
 ## x is a square invertible matrix
 ## return: a list containing functions to
+## This method does the below activities
 ##              1. set the matrix
 ##              2. get the matrix
 ##              3. set the inverse
